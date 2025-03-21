@@ -29,3 +29,6 @@ git clone https://github.com/yourusername/Simple-PyQt5-browser.git
 cd Simple-PyQt5-browser
 ```
 2. Run the compiled _browser.exe_ file from the repository on a Windows 10 or newer machine.
+
+# License
+This project is licensed under the MIT license.
