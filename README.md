@@ -29,4 +29,4 @@ If you want to run the browser from the source code, follow these steps:
 git clone https://github.com/yourusername/Simple-PyQt5-browser.git
 cd Simple-PyQt5-browser
 ```
-3. Run the compiled _browser.exe_ file from the repository on a Windows 10 or newer machine.
+2. Run the compiled _browser.exe_ file from the repository on a Windows 10 or newer machine.
