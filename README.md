@@ -6,7 +6,6 @@ This is a simple web browser built using PyQt5 and Python. It supports multiple 
 2. Navigation Controls: Back, forward, reload, and home buttons for navigation.
 3. URL Bar: A URL bar to enter website addresses.
 4. Close Tabs: Close tabs with a single click.
-5. Custom Tab Bar: Customize the size and shape of the tabs.
 
 # Usage
 1. To open a new tab, double-click on the tab bar or click the "New tab" button.
